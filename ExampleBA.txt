@@ -1,0 +1,8 @@
+For example, Internet-based behavioral analytics can be used to detect phishing attacks. By analyzing user behavior patterns, such as email click-through rates and response times, security teams can identify suspicious activity that may indicate a phishing attempt. For example, if a user suddenly starts clicking on links from an unknown sender, this could be a sign of a phishing attempt.
+
+Another use case for internet-based behavioral analytics is to detect and respond to malware attacks. By analyzing network traffic patterns and user behavior, security teams can identify abnormal activity, such as a sudden spike in network traffic or an unusual data transfer. This could be a sign of malware attempting to exfiltrate data or spread within the network.
+
+For example, Internet-based behavioral analytics can be used to detect phishing attacks. By analyzing user behavior patterns, such as email click-through rates and response times, security teams can identify suspicious activity that may indicate a phishing attempt. For example, if a user suddenly starts clicking on links from an unknown sender, this could be a sign of a phishing attempt.
+
+Another use case for internet-based behavioral analytics is to detect and respond to malware attacks. By analyzing network traffic patterns and user behavior, security teams can identify abnormal activity, such as a sudden spike in network traffic or an unusual data transfer. This could be a sign of malware attempting to exfiltrate data or spread within the network.
+
