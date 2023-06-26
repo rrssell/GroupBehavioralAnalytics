@@ -1,0 +1,12 @@
+Behavioral analytics involves collecting data on various user actions, such as clicks, page views, and time spent on a page or within 
+an application, so we can say that one of the disadvantages of this technology is the potential breach of privacy to collect data. 
+This data can then be analyzed using various tools and techniques to identify trends and patterns in 
+user behavior. For example, a company may use behavioral analytics to identify which features of their product are most popular or to 
+track the user journey through their website.
+Behavioral analytics can be used as a tool in cybersecurity to help organizations detect and respond to potential security 
+threats on the internet. By monitoring user behavior and identifying abnormal activity, security teams can quickly detect and respond 
+to potential breaches and protect their networks and data from harm.
+
+Behavioral analytics in cybersecurity involves collecting data on user activity within a network or system, such as login attempts,
+ how users interact with websites and online services, file access, and network traffic. This data can then be analyzed using machine
+ learning and other techniques to identify patterns of behavior that may indicate a security threat.
