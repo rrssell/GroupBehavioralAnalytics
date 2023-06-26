@@ -1,0 +1,14 @@
+In summary, the Internet is not a safe place and is infested with people who have malicious thoughts and actions. 
+That’s why cybersecurity is important to keep the environment of netizens safe and comfortable. Behavioral analytics is one of the 
+best tools for cybersecurity. As people's engagement and interaction with the internet increase, so does the capability of this analytic
+technology as more data comes in, helping it grow and become a more reliable security tool while browsing the internet. It helps the 
+system keep track of people’s activities online so it can properly respond if something out of the ordinary happens. Having behavioral 
+analytics is one of the keys to having a secure and successful system and organization, as it continuously improves to erase the 
+vulnerability of the platform and keep everyone safe.
+
+In conclusion, even though there is a potential risk of privacy breaches using behavioral analytics, we believe that responsible, 
+ethical, and proper usage of this technology will help the advancement of cybersecurity and combat illegal activities online. 
+With the amount of people using the internet to do things, a team or a group of people will not be enough to moderate millions, 
+if not billions, of users manually. That’s why behavioral analytics can provide them with a more comprehensive and proactive 
+approach to cybersecurity, enabling them to detect and respond to threats more quickly and effectively.
+
